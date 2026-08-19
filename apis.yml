@@ -30,7 +30,7 @@ x-tier-reason: portfolio-lead
 x-former-name: Adagio Therapeutics
 x-current-name: Invivyd, Inc.
 x-no-api-surface: true
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-17'
 tags:
